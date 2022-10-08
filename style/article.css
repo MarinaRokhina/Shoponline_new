@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "lato";
+  src: local("lato") url('fonts/lato-regular.woff2') format("woff2"),
+  url('fonts/lato-regular.woff') format("woff");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "lato";
+  src: local("lato") url('fonts/lato-bold.woff2') format("woff2"),
+  url('fonts/lato-bold.woff') format("woff");
+  font-weight: 700;
+  font-display: swap;
+}
+
+.article {
+  margin-right: 80px;
+  margin-left: 75px;
+}
+
+.article__content {
+  width: 1095px;
+}
+
+.article__take-care p:first-of-type {
+  margin-bottom: 55px;
+}
+
+.content__third p:first-of-type {
+  margin-bottom: 55px;
+}
+
+
+
+
+
+
